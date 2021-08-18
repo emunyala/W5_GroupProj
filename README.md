@@ -1,6 +1,6 @@
 # W5_GroupProj
 
-# INVESTIGATING THE EFFECTIVENESS OF PEER EDUCATION ON HIV & AIDS AMONG ADOLESCENTS
+# INVESTIGATING THE EFFECTIVENESS OF PEER EDUCATION ON HIV & AIDS AMONG ADOLESCENTS IN EAST AFRICA
     ### {python programming data science project},{august,2021}
     ### by:Jabin Oganga, Joyline Cheruiyot, Eliud Munyala, Moreen Mugambi, Maurice Senzeyi.
     
