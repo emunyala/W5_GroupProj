@@ -23,6 +23,16 @@
     ###Pandas
     ###Numpy
     ###Matplotlib
+ ## Streamlit app screenshot
+ ![Screenshot from 2021-08-25 08-14-21](https://user-images.githubusercontent.com/87531378/130730824-dfdfa755-663d-40f0-bd0d-1f1d3c8850dd.png)
+ 
+ 
+![Screenshot from 2021-08-25 08-14-26](https://user-images.githubusercontent.com/87531378/130730828-4d3a49a5-dbaa-4434-ac41-d4ed1f97cb30.png)
+
+
+
+![Screenshot from 2021-08-25 08-14-30](https://user-images.githubusercontent.com/87531378/130730829-9b556d51-014e-43e0-a202-fc9b13ab4da9.png)
+
     
 #contact/email:
   ### jabin.oweggi@student.moringaschool.com
