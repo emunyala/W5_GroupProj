@@ -23,7 +23,15 @@
     ###Pandas
     ###Numpy
     ###Matplotlib
- ## Streamlit app screenshot
+    
+
+ ## Streamlit dashboard app screenshot
+        ## our streamlit app enables the user to select data points they want to compare from 
+        ## with countries Kenya, Uganda and Tanzania
+        ## we also have two bar charts showing totals
+        
+ ![Screenshot from 2021-08-25 08-19-02](https://user-images.githubusercontent.com/87531378/130730971-d2908766-9094-4abd-83f5-88a4b4856439.png)
+ 
  ![Screenshot from 2021-08-25 08-14-21](https://user-images.githubusercontent.com/87531378/130730824-dfdfa755-663d-40f0-bd0d-1f1d3c8850dd.png)
  
  
@@ -33,6 +41,8 @@
 
 ![Screenshot from 2021-08-25 08-14-30](https://user-images.githubusercontent.com/87531378/130730829-9b556d51-014e-43e0-a202-fc9b13ab4da9.png)
 
+    
+    
     
 #contact/email:
   ### jabin.oweggi@student.moringaschool.com
